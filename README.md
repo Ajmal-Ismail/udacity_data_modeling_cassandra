@@ -1,1 +1,0 @@
-# udacity_data_modeling_cassandra
